@@ -2,6 +2,9 @@
 
 This template has been made for mobile devices specially as most people check email on their phones
 
+## Example
+![example-SS.png](example-SS.png)
+
 ### How to use:-
 - Make a copy of this template/ Fork it.
 - search for `~` in the this they are all the things to be updated I have left a little description as to what has to be put in
